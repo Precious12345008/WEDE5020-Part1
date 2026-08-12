@@ -1,1 +1,13 @@
-# WEDE5020-Part1
+# Pre_Luxx
+ST10520801 Tsotetsi Maki
+WEDE5020
+## Project Overview
+Joyce Bakery was created in 1980 by Joyce Smith. It is a family company...
+## Website Goals and Objectives
+
+## Sitemap
+Home...
+
+
+## Changelog
+added logo, navigation, website content
