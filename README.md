@@ -10,20 +10,20 @@ Pre_Luxx Boutique Website — WEDE5020 Portfolio of Evidence (Part 1)
 - **Module:** WEDE5020 — Web Development
 - 
 
-## Project Overview (Complete)
-Pre_Luxx Boutique is a hypothetical retail store founded in 2016 by Nadia Petersen, a fashion design graduate and former stylist, specialising in elegant formal wear — evening gowns, tailored suits, bridesmaid dresses, and made-to-measure pieces for weddings, matric dances, and galas. The boutique is located on Minner Street at Pretoria, with a second showroom in Mdrand.
 
-This repository contains the Part 1 deliverable of the WEDE5020 Portfolio of Evidence: project initiation and planning, culminating in an initial static HTML/CSS/JS build of the five-page website.
+Pre_Luxx Boutique is a fictional retail store started in 2016 by Nadia Petersen, a fashion design graduate and former stylist. It focuses on elegant formal wear. That includes evening gowns and tailored suits. It also offers bridesmaid dresses and made-to-measure pieces for weddings, matric dances and galas. The boutique is on Minner Street in Pretoria, with a second showroom in Midrand.
 
-Although the organization is fictional, all content — history, mission, product range, pricing, and contact details — has been written to be realistic, in line with the subject brief's requirement that fictional clients still be presented with genuine, plausible content.
+This repository holds the Part 1 deliverable for the WEDE5020 Portfolio of Evidence. It covers project initiation and planning, then leads into an early static HTML, CSS and JS build for a five-page website.
 
-## Website Goals and Objectives
-The website's primary goal is to let clients browse the collection and book a fitting online before visiting in person — essential for a boutique built around personalized, appointment-based service.
+The organisation is fictional, but the content aims to feel real. Its history, mission, product range, pricing and contact details were written to stay believable and to match the subject brief, which requires fictional clients to be presented with genuine, plausible content.
 
-- Increase fitting and consultation bookings ahead of key seasons (matric dances, wedding season)
-- Showcase the full collection with high-quality photography
-- Generate enquiries for made-to-measure and alteration services
-- Give out-of-town clients (planning a wedding or event) the information they need before arriving
+The website should first let clients browse the collection and book a fitting online before they visit in person. That matters for a boutique built around personal, appointment-based service.
+
+It should lift fitting and consultation bookings before busy seasons like matric dances and wedding season. Good timing matters.
+
+The site also needs to show the full collection through high-quality photography, while bringing in enquiries for made-to-measure work and alteration services.
+
+Out-of-town clients matter too. They need clear information before they arrive, especially when planning a wedding or another event.
 
 **Key Performance Indicators (KPIs):**
 - Number of fitting/consultation bookings submitted per month
@@ -94,8 +94,8 @@ Tracking changes and improvements to the website over the course of the project.
 
 | Date | Change |
 |------|--------|
-| 2026-08-09 | Initial project setup: two proposals drafted (Sizanani Community Care, Aurelle Boutique) |
-| 2026-08-09 | Aurelle Boutique approved as target organization |
+| 2026-08-09 | Initial project setup: two proposals drafted (Sizanani Community Care, Pre Luxx Boutique) |
+| 2026-08-09 | Pre Lux Boutique approved as target organization |
 | 2026-08-09 | Sitemap and folder structure finalized |
 | 2026-08-09 | Initial HTML/CSS/JS build completed for all five pages |
 | 2026-08-11 | Design system refined (color tokens, typography, ornamental divider) |
@@ -108,4 +108,4 @@ Tracking changes and improvements to the website over the course of the project.
 - Unsplash / Pexels — royalty-free stock photography sources for product and hero images (individual image credits to be added here as final photography is sourced).
 
 ---
-*This README will be updated throughout the project as Part 2 and Part 3 are added.*
+
